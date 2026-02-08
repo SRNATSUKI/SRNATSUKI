@@ -1,11 +1,12 @@
 ![Preview](./images/banner.png)
+
 <a href="https://discord.com/users/776848405011628073">
-  <img
+  <img align="right" width="425"
     src="https://lanyard.cnrad.dev/api/776848405011628073?bg=1A1C1F&borderRadius=14px&idleMessage=Lost%20in%20thoughts...&hideStatus=true&hideSpotify=true&showDisplayName=true&hideTimestamp=true&hideDiscrim=true"
   />
 </a>
 
-### Hi!👋 I'm Natsuki🍙
+### Hi! 👋 I'm Natsuki 🍙
 
 *『Natsuki Subaru』is a weak, petty, irredeemable huge idiot.*
 
@@ -61,25 +62,22 @@
 <p align="center">
   <img src="https://media.tenor.com/BFicsAlUcYkAAAAi/anime-dance.gif" width="180"/>
   &nbsp;&nbsp;&nbsp;
+ <br clear="right"/>
+<p align="center">
   <a href="https://open.spotify.com/user/315brb6ecno7qbtwswxtcfqivj5i">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315brb6ecno7qbtwswxtcfqivj5i&cover_image=true&theme=default&background_color=1A1C1F&bar_color=6B5B95&show_offline=false" width="320"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=315brb6ecno7qbtwswxtcfqivj5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
   </a>
 </p>
 
-
-# 📊 GitHub Stats:
-
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SRNATSUKI&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=1A1C1F"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRNATSUKI&layout=compact&hide_border=true&theme=midnight-purple&bg_color=1A1C1F"/>
-</p>
-
-## 🧋 Cutie Counter
-<p align="center">
-  <img src="https://count.getloli.com/get/@SRNATSUKI?theme=moebooru" />
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SRNATSUKI&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  
+  </div>
 
 ## **📫 Contact**
-<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/marin_smug.webp" /></a>
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="120" src="./images/echidna-surprise.png" /></a>
 
 **If you’re looking for me, check below.**
 
@@ -100,6 +98,11 @@
 <p align="center">Thank you for visiting. ☕</p>
 
 <div align="center">
-  <img src="https://i.imgur.com/P5tZz6S.gif" />
+  <img src="https://i.imgur.com/FrDCifP.gif" />
 </div>
+
+## 🧋 Cutie Counter
+<p align="center">
+  <img src="https://count.getloli.com/get/@SRNATSUKI?theme=moebooru" />
+</p>
 
