@@ -1,9 +1,7 @@
 ![Preview](./images/banner.png)
 
 <a href="https://discord.com/users/776848405011628073">
-  <img align="right" width="425"
-    src="https://lanyard.cnrad.dev/api/776848405011628073?bg=1A1C1F&borderRadius=14px&idleMessage=Lost%20in%20thoughts...&hideStatus=true&hideSpotify=true&showDisplayName=true&hideTimestamp=true&hideDiscrim=true"
-  />
+  <img align="right" width="425" src="https://lanyard.cnrad.dev/api/776848405011628073?bg=0d1117&animated=false&hideDiscrim=true&borderRadius=5px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
 
 ### Hi! 👋 I'm Natsuki 🍙
@@ -72,7 +70,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SRNATSUKI&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Legna-chan&theme=dark&hide_border=true)](https://git.io/streak-stats)
   
   </div>
 
@@ -94,15 +92,19 @@
   <a href="#"><img src="https://img.shields.io/badge/%23-2B1E2F?style=for-the-badge"/></a>
 </p>
 
+<p align="center">
+  
+  <img src="https://count.getloli.com/get/@SRNATSUKI?theme=moebooru" />
+  
+</p>
+
 <h2 align="center">Curiosity brought you here.</h2>
 <p align="center">Thank you for visiting. ☕</p>
 
 <div align="center">
-  <img src="https://i.imgur.com/FrDCifP.gif" />
+  
+<img src="./images/echidna-witch-of-greed.gif" />
+
 </div>
 
-## 🧋 Cutie Counter
-<p align="center">
-  <img src="https://count.getloli.com/get/@SRNATSUKI?theme=moebooru" />
-</p>
 
