@@ -17,7 +17,7 @@
 - Name: **Natsuki**
 - Residing in: **Brasil**
 - Hobbies: **Anime, Coding, Music, Game**
-- Work: **Student / Dev**
+- Work: **Student / Dev / Apprentice slave**
 - Language: **Portuguese, English(base)**
 
 <br clear="left"/>
